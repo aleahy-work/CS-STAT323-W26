@@ -1,0 +1,64 @@
+"","year","randnum","diehard","earlobes","hitchthumb","age","siblings","pizzatop","knoxyear","eyecolor","cellphone","hand","sex","height","wingspan","cubit","handspan"
+"1",2021,3,"Yes","Detached","Hitchhikers thumb",19,1,"Pepperoni","Sophomore","Brown","Android","Right","Female",66,67.1,17.5,7.5
+"2",2021,7,"Yes","Attached","Hitchhikers thumb",21,0,"Cheese","Senior and beyond","Brown","Android","Left","Female",64.5,68,18,6.5
+"3",2021,9,"No","Detached","No hitchhikers thumb",19,2,"Cheese","Sophomore","Brown","Android","Right","Male",73,71,18.5,7.5
+"4",2021,3,"No","Detached","No hitchhikers thumb",19,0,"Cheese","Sophomore","Other","Android","Right","Male",67,69.1,18.4,7.9
+"5",2021,4,"Yes","Detached","No hitchhikers thumb",20,1,"Sausage","Junior","Brown","Android","Right","Female",64.8,61.2,16,6.6
+"6",2021,6,"Yes","Detached","Hitchhikers thumb",21,2,"Sausage","Senior and beyond","Brown","iPhone","Right","Male",70.1,67.5,18.5,8.4
+"7",2021,10,"Yes","Detached","Hitchhikers thumb",20,2,"Cheese","Junior","Brown","iPhone","Left","Male",71,71,19,8.8
+"8",2021,9,"Yes","Detached","No hitchhikers thumb",19,1,"Other","Sophomore","Other","iPhone","Right","Male",71,70.1,17.1,9.1
+"9",2021,1,"No","Detached","No hitchhikers thumb",19,1,"Cheese","Sophomore","Other","Android","Right","Male",63.5,61.5,15.75,8.2
+"10",2021,2,"Yes","Detached","Hitchhikers thumb",18,0,"Mushrooms","First year","Other","Other operating system","Right","Female",58,56,13,7
+"11",2021,10,"No","Detached","Hitchhikers thumb",21,0,"Other","Sophomore","Brown","Android","Right","Male",67,65,17.1,7
+"12",2021,5,"No","Detached","No hitchhikers thumb",19,1,"Cheese","Sophomore","Brown","iPhone","Right","Female",65.7,65,17.7,7.9
+"13",2021,7,"Yes","Detached","No hitchhikers thumb",21,0,"Sausage","Senior and beyond","Other","Android","Right","Male",73,74,19.8,7.3
+"14",2021,3,"Yes","Detached","Hitchhikers thumb",21,1,"Other","Senior and beyond","Other","iPhone","Right","Female",62.3,62.3,18.2,8
+"15",2021,8,"Yes","Detached","No hitchhikers thumb",16,2,"Mushrooms","First year","Brown","Android","Right","Male",73,71.5,20.3,8.5
+"16",2021,5,"Yes","Detached","Hitchhikers thumb",19,3,"Pepperoni","Sophomore","Other","iPhone","Right","Male",71,72.5,19.5,8
+"17",2021,7,"Yes","Detached","No hitchhikers thumb",20,1,"Pepperoni","Sophomore","Other","iPhone","Right","Male",68,68,17,7.5
+"18",2021,2,"No","Detached","No hitchhikers thumb",19,2,"Pepperoni","Sophomore","Brown","iPhone","Right","Male",71.8,70,17,7.2
+"19",2021,3,"Yes","Attached","No hitchhikers thumb",20,1,"Other","Sophomore","Brown","iPhone","Right","Female",64.5,65,17,7.5
+"20",2021,8,"Yes","Attached","Hitchhikers thumb",18,1,"Other","Sophomore","Brown","Android","Right","Female",66.5,62.8,16.7,6.5
+"21",2021,6,"Yes","Detached","No hitchhikers thumb",21,1,"Pepperoni","Junior","Other","Android","Right","Male",72,74,20,9.5
+"22",2021,3,"No","Detached","Hitchhikers thumb",20,2,"Other","Junior","Brown","iPhone","Right","Male",74,72,19.5,9
+"23",2021,8,"Yes","Detached","Hitchhikers thumb",21,0,"Sausage","Senior and beyond","Brown","Android","Right","Female",67,68,17.5,7.1
+"24",2021,6,"Yes","Detached","No hitchhikers thumb",20,0,"Cheese","Junior","Other","iPhone","Right","Female",64,62,17,6.5
+"25",2021,6,"Yes","Detached","No hitchhikers thumb",20,5,"Pepperoni","Sophomore","Brown","iPhone","Right","Female",66,55.3,17.3,7.5
+"26",2021,6,"Yes","Attached","Hitchhikers thumb",20,1,"Cheese","Sophomore","Brown","iPhone","Right","Male",70.1,70.5,22.2,9.9
+"27",2021,2,"Yes","Detached","No hitchhikers thumb",18,1,"Cheese","First year","Other","Android","Right","Female",70.4,71.7,19.4,9.3
+"28",2021,9,"No","Attached","No hitchhikers thumb",22,1,"Pepperoni","Senior and beyond","Brown","iPhone","Right","Male",75.2,77.8,22,6.5
+"29",2021,9,"Yes","Detached","Hitchhikers thumb",18,4,"Pepperoni","First year","Other","iPhone","Right","Female",69.1,67.9,17.2,8
+"30",2021,3,"No","Detached","Hitchhikers thumb",19,1,"Pepperoni","Sophomore","Brown","iPhone","Right","Female",65,63,17.5,8
+"31",2021,5,"No","Attached","Hitchhikers thumb",21,2,"Cheese","Sophomore","Brown","iPhone","Left","Female",64,63,16.3,7.2
+"32",2021,5,"Yes","Detached","No hitchhikers thumb",20,1,"Sausage","Sophomore","Other","iPhone","Right","Male",74.5,78,18.5,6.3
+"33",2021,3,"No","Detached","No hitchhikers thumb",20,1,"Cheese","Junior","Other","Android","Right","Female",64.8,64.5,16.1,7.4
+"34",2021,6,"Yes","Detached","Hitchhikers thumb",20,1,"Cheese","Junior","Brown","iPhone","Right","Female",64.5,62,16.5,7.5
+"35",2021,7,"Yes","Detached","Hitchhikers thumb",20,2,"Cheese","Junior","Brown","iPhone","Right","Male",72.5,90,24,5
+"36",2021,7,"Yes","Detached","Hitchhikers thumb",21,1,"Pepperoni","Senior and beyond","Other","iPhone","Right","Female",68,59.6,15.1,7.9
+"37",2021,6,"No","Attached","Hitchhikers thumb",20,2,"Sausage","Sophomore","Other","iPhone","Right","Male",70,72,15,7
+"38",2021,3,"No","Detached","No hitchhikers thumb",18,1,"Other","First year","Brown","iPhone","Right","Female",63.8,63.4,16.8,8
+"39",2021,7,"Yes","Detached","Hitchhikers thumb",20,3,"Cheese","Sophomore","Brown","iPhone","Right","Male",69.4,69.7,17.5,8.4
+"40",2021,2,"Yes","Detached","No hitchhikers thumb",19,1,"Cheese","First year","Brown","iPhone","Right","Male",64.5,62.5,16.5,6.5
+"41",2022,10,"No","Attached","Hitchhiker's thumb",21,0,"Sausage","Junior","Brown","iPhone","Right","Male",69,69,20,9.5
+"42",2022,2,"No","Detached","Hitchhiker's thumb",20,1,"Mushrooms","Junior","Other","iPhone","Right","Female",68.5,67,16,6.5
+"43",2022,3,"Yes","Detached","No hitchhiker's thumb",20,0,"Other","Sophomore","Other","iPhone","Left","Female",71.4,69.5,18.1,7.7
+"44",2022,7,"Yes","Detached","Hitchhiker's thumb",20,2,"Mushrooms","Sophomore","Other","Android","Right","Male",74.5,74.9,20.3,8.6
+"45",2022,7,"No","Detached","Hitchhiker's thumb",18,1,"Cheese","First year","Other","Android","Right","Female",66.8,66.1,17.5,8.5
+"46",2022,1,"Yes","Detached","No hitchhiker's thumb",23,1,"Sausage","Senior and beyond","Brown","Android","Right","Male",71.5,72.1,19.5,8.6
+"47",2022,3,"No","Attached","No hitchhiker's thumb",20,1,"Pepperoni","Sophomore","Other","iPhone","Right","Male",69,68.5,18.4,8.9
+"48",2022,8,"Yes","Detached","No hitchhiker's thumb",20,1,"Other","Sophomore","Brown","iPhone","Right","Male",72,72.8,19.5,8.2
+"49",2022,7,"Yes","Detached","No hitchhiker's thumb",20,3,"Sausage","Sophomore","Brown","iPhone","Right","Male",72,71.5,19.1,8.4
+"50",2022,6,"No","Detached","No hitchhiker's thumb",19,3,"Sausage","Sophomore","Brown","iPhone","Right","Male",72,73.75,17.3,8.4
+"51",2022,4,"Yes","Detached","No hitchhiker's thumb",18,1,"Cheese","First year","Brown","iPhone","Right","Female",66.5,63.8,7.5,7.3
+"52",2022,3,"No","Attached","Hitchhiker's thumb",20,1,"Pepperoni","Sophomore","Brown","Android","Right","Male",68.5,67.75,18.11,7.8
+"53",2022,7,"Yes","Detached","No hitchhiker's thumb",19,1,"Cheese","First year","Other","iPhone","Right","Male",74.7,73.1,20,8.6
+"54",2022,1,"Yes","Attached","No hitchhiker's thumb",21,1,"Cheese","Junior","Other","iPhone","Right","Female",65,63.3,16.4,8.2
+"55",2022,5,"Yes","Attached","Hitchhiker's thumb",20,1,"Sausage","Junior","Other","iPhone","Right","Female",69,67.5,18.2,7.5
+"56",2022,7,"No","Detached","No hitchhiker's thumb",20,5,"Other","Sophomore","Brown","iPhone","Right","Male",70.6,71.8,19.6,8.8
+"57",2022,1,"No","Attached","No hitchhiker's thumb",20,1,"Other","Sophomore","Brown","iPhone","Right","Male",68.9,67.5,17.5,8.4
+"58",2022,1,"No","Detached","No hitchhiker's thumb",19,2,"Pepperoni","Sophomore","Brown","iPhone","Right","Male",65,67,17.5,8
+"59",2022,5,"No","Detached","No hitchhiker's thumb",20,1,"Cheese","Sophomore","Other","iPhone","Right","Male",70,72.8,18.7,9
+"60",2022,8,"Yes","Detached","No hitchhiker's thumb",18,0,"Mushrooms","First year","Brown","iPhone","Right","Male",68.8,67.9,18.8,8
+"61",2022,4,"No","Detached","No hitchhiker's thumb",20,1,"Other","Junior","Brown","iPhone","Left","Male",67,68,18,6.5
+"62",2022,8,"No","Detached","No hitchhiker's thumb",20,2,"Pepperoni","Junior","Brown","iPhone","Right","Male",72,71.6,19.7,8.7
+"63",2022,4,"Yes","Attached","Hitchhiker's thumb",19,3,"Cheese","Sophomore","Other","iPhone","Right","Female",61,61,16,7
