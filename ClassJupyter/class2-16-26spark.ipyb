@@ -1,0 +1,124 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "589d2926-b97b-4af7-9b87-6ce2f393c5c6",
+   "metadata": {},
+   "source": [
+    "# Playing with Spark and the NYC Yellow Taxi Dataset #\n",
+    "\n",
+    "This works with the Yellow Taxi dataset.  See [here](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data) for a description of columns. "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "58f7cbaa-0fcf-4281-8a09-f870c13f1815",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'4.1.1'"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "import pyspark\n",
+    "pyspark.__version__"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "17a6d015-c0a6-41f2-8afc-4d16bfe4ec88",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "WARNING: Using incubator modules: jdk.incubator.vector\n",
+      "Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties\n",
+      "Setting default log level to \"WARN\".\n",
+      "To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).\n",
+      "26/02/16 07:38:30 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n"
+     ]
+    }
+   ],
+   "source": [
+    "from pyspark.sql import SparkSession\n",
+    "\n",
+    "spark = SparkSession.builder \\\n",
+    "    .appName(\"MyDemo\") \\\n",
+    "    .getOrCreate()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "0132b53f-f12e-458f-91e2-8ff3a3f7a996",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "                                                                                "
+     ]
+    }
+   ],
+   "source": [
+    "df = spark.read.parquet(\n",
+    "    \"hdfs://pi1.knoxds.org:8020/datasets/yellow_tripdata_2025-01.parquet\"\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f7c7aaee-66d1-4faa-8f7d-87bc1930421e",
+   "metadata": {},
+   "source": [
+    "## Some Questions ##\n",
+    "\n",
+    "1. What was the average fare during this month?\n",
+    "2. What was the median distance during this month?\n",
+    "3. What were the 20 longest distances during this month?\n",
+    "4. What proportion of the rides had just one passenger?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d1d31526-97d2-453c-918c-66933ef5211b",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Lagrange PySpark",
+   "language": "python",
+   "name": "lagspark"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
